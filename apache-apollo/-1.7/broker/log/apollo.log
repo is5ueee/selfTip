@@ -1,0 +1,108 @@
+2021-07-03 15:42:54,521 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-03 15:42:54,521 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-03 15:42:54,521 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-03 15:42:54,757 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-03 15:42:55,508 | INFO  | Opening the log file took: 594.98 ms | 
+2021-07-03 15:42:56,527 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-03 15:42:56,527 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-03 15:42:56,590 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-03 15:42:56,873 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-03 15:42:57,735 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-03 15:42:57,735 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-03 16:31:20,747 | INFO  | javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown | 17a6b51fdb2
+2021-07-03 16:31:20,798 | INFO  | javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown | 17a6b51fdb3
+2021-07-03 16:36:16,084 | INFO  | java.io.EOFException: Peer disconnected | 17a6b51fdb5
+2021-07-05 16:40:07,933 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-05 16:40:07,935 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-05 16:40:07,936 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-05 16:40:08,192 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-05 16:40:08,960 | INFO  | Opening the log file took: 52.38 ms | 
+2021-07-05 16:40:09,772 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-05 16:40:09,772 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-05 16:40:09,829 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-05 16:40:10,066 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-05 16:40:10,548 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-05 16:40:10,548 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-05 16:50:40,558 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a31
+2021-07-05 17:01:23,828 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a33
+2021-07-05 17:06:30,519 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a35
+2021-07-05 17:11:27,630 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a37
+2021-07-05 17:11:59,244 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a39
+2021-07-05 17:52:00,510 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a3b
+2021-07-05 17:52:17,225 | INFO  | java.io.EOFException: Peer disconnected | 17a75d31a3d
+2021-07-06 14:20:01,887 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-06 14:20:01,887 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-06 14:20:01,887 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-06 14:20:02,137 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-06 14:20:03,153 | INFO  | Opening the log file took: 52.61 ms | 
+2021-07-06 14:20:03,168 | INFO  | virtual host startup is waiting on store startup | 
+2021-07-06 14:20:03,465 | INFO  | virtual host startup is no longer waiting.  It waited a total of 1 seconds. | 
+2021-07-06 14:20:04,043 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-06 14:20:04,043 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-06 14:20:04,106 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-06 14:20:04,480 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-06 14:20:05,043 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-06 14:20:05,043 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-08 15:20:52,205 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-08 15:20:52,209 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-08 15:20:52,210 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-08 15:20:52,463 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-08 15:20:53,495 | INFO  | virtual host startup is waiting on store startup | 
+2021-07-08 15:20:53,543 | INFO  | Opening the log file took: 796.63 ms | 
+2021-07-08 15:20:54,118 | INFO  | virtual host startup is no longer waiting.  It waited a total of 1 seconds. | 
+2021-07-08 15:20:54,746 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-08 15:20:54,747 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-08 15:20:54,831 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-08 15:20:55,309 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-08 15:20:55,913 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-08 15:20:55,913 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-08 15:25:41,905 | INFO  | java.io.EOFException: Peer disconnected | 17a84fd95f9
+2021-07-08 15:26:25,039 | INFO  | java.io.EOFException: Peer disconnected | 17a84fd95fb
+2021-07-08 15:28:05,586 | INFO  | java.io.EOFException: Peer disconnected | 17a84fd95fd
+2021-07-08 15:31:40,017 | INFO  | java.io.EOFException: Peer disconnected | 17a84fd95ff
+2021-07-08 19:51:19,646 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-08 19:51:19,661 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-08 19:51:19,661 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-08 19:51:19,833 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-08 19:51:19,974 | INFO  | Opening the log file took: 20.82 ms | 
+2021-07-08 19:51:20,614 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-08 19:51:20,614 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-08 19:51:20,646 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-08 19:51:20,646 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-08 19:51:21,130 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-08 19:51:21,130 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-08 19:55:52,215 | INFO  | java.io.EOFException: Peer disconnected | 17a85f53bba
+2021-07-08 19:57:39,909 | INFO  | java.io.EOFException: Peer disconnected | 17a85f53bbc
+2021-07-08 19:57:54,788 | INFO  | java.io.EOFException: Peer disconnected | 17a85f53bbe
+2021-07-08 20:04:02,916 | INFO  | java.io.EOFException: Peer disconnected | 17a85f53bc0
+2021-07-08 20:05:05,389 | INFO  | java.io.EOFException: Peer disconnected | 17a85f53bc2
+2021-07-09 10:43:55,670 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-09 10:43:55,670 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-09 10:43:55,670 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-09 10:43:55,951 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-09 10:43:57,154 | INFO  | virtual host startup is waiting on store startup | 
+2021-07-09 10:43:57,341 | INFO  | Opening the log file took: 84.59 ms | 
+2021-07-09 10:43:57,904 | INFO  | virtual host startup is no longer waiting.  It waited a total of 1 seconds. | 
+2021-07-09 10:43:58,560 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-09 10:43:58,560 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-09 10:43:58,653 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-09 10:44:00,887 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-09 10:44:01,012 | INFO  | broker startup is waiting on start jetty webserver | 
+2021-07-09 10:44:02,516 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-09 10:44:02,516 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-09 10:44:02,516 | INFO  | broker startup is no longer waiting.  It waited a total of 6 seconds. | 
+2021-07-09 21:12:17,988 | INFO  | OS     : Windows 10 10.0 | 
+2021-07-09 21:12:17,990 | INFO  | JVM    : Java HotSpot(TM) 64-Bit Server VM 1.8.0_261 (Oracle Corporation) | 
+2021-07-09 21:12:17,990 | INFO  | Apollo : 1.7 (at: D:\apache-apollo-1.7) | 
+2021-07-09 21:12:18,224 | INFO  | Starting store: leveldb store at D:\apache-apollo\-1.7\broker\data | 
+2021-07-09 21:12:18,940 | INFO  | Opening the log file took: 57.14 ms | 
+2021-07-09 21:12:19,243 | INFO  | virtual host startup is waiting on store startup | 
+2021-07-09 21:12:19,392 | INFO  | virtual host startup is no longer waiting.  It waited a total of 1 seconds. | 
+2021-07-09 21:12:20,000 | INFO  | Accepting connections at: tcp://0.0.0.0:61613 | 
+2021-07-09 21:12:20,000 | INFO  | Accepting connections at: tls://0.0.0.0:61614 | 
+2021-07-09 21:12:20,062 | INFO  | Accepting connections at: ws://0.0.0.0:61623/ | 
+2021-07-09 21:12:20,283 | INFO  | Accepting connections at: wss://0.0.0.0:61624/ | 
+2021-07-09 21:12:21,156 | INFO  | Administration interface available at: https://127.0.0.1:61681/ | 
+2021-07-09 21:12:21,157 | INFO  | Administration interface available at: http://127.0.0.1:61680/ | 
+2021-07-09 21:16:07,222 | INFO  | java.io.EOFException: Peer disconnected | 17a8b65b7ab
+2021-07-09 22:29:50,841 | INFO  | java.io.EOFException: Peer disconnected | 17a8b65b7ad

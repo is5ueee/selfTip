@@ -1,0 +1,160 @@
+2021-07-03 16:31:19,850 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64137
+2021-07-03 16:31:19,960 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64137
+2021-07-03 16:31:20,746 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64139
+2021-07-03 16:31:20,750 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64137
+2021-07-03 16:31:20,754 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64139
+2021-07-03 16:31:20,798 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64139
+2021-07-03 16:32:20,297 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64278
+2021-07-03 16:32:20,314 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64278
+2021-07-03 16:36:16,083 Shutting connection '/127.0.0.1:64278'  down due to: java.io.EOFException: Peer disconnected
+2021-07-03 16:36:16,085 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64278
+2021-07-05 16:42:41,475 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57328
+2021-07-05 16:42:41,489 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57328
+2021-07-05 16:42:56,149 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57334
+2021-07-05 16:42:56,149 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57334
+2021-07-05 16:42:56,155 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:57328
+2021-07-05 16:50:40,558 Shutting connection '/127.0.0.1:57334'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 16:50:40,559 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:57334
+2021-07-05 16:52:05,468 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:58054
+2021-07-05 16:52:05,470 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:58054
+2021-07-05 16:52:15,209 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:58080
+2021-07-05 16:52:15,210 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:58080
+2021-07-05 16:52:15,211 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:58054
+2021-07-05 16:53:25,154 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:58080
+2021-07-05 16:54:43,808 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:56135
+2021-07-05 16:54:43,810 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:56135
+2021-07-05 16:55:04,318 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:55287
+2021-07-05 16:55:04,318 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:55287
+2021-07-05 16:55:04,320 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:56135
+2021-07-05 16:56:12,629 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:55287
+2021-07-05 16:56:58,755 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:55543
+2021-07-05 16:56:58,758 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:55543
+2021-07-05 16:58:49,809 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:55543
+2021-07-05 16:59:15,263 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64344
+2021-07-05 16:59:15,265 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64344
+2021-07-05 17:01:23,828 Shutting connection '/127.0.0.1:64344'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 17:01:23,829 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64344
+2021-07-05 17:02:48,567 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:61578
+2021-07-05 17:02:48,568 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:61578
+2021-07-05 17:06:30,519 Shutting connection '/127.0.0.1:61578'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 17:06:30,519 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:61578
+2021-07-05 17:07:05,461 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53717
+2021-07-05 17:07:05,464 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53717
+2021-07-05 17:07:12,626 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:53717
+2021-07-05 17:07:41,535 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53742
+2021-07-05 17:07:41,537 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53742
+2021-07-05 17:08:12,455 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:53742
+2021-07-05 17:09:01,312 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53783
+2021-07-05 17:09:01,315 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53783
+2021-07-05 17:09:29,434 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:53783
+2021-07-05 17:10:50,397 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53838
+2021-07-05 17:10:50,400 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53838
+2021-07-05 17:11:15,297 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53839
+2021-07-05 17:11:15,297 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53839
+2021-07-05 17:11:27,630 Shutting connection '/127.0.0.1:53838'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 17:11:27,630 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:53838
+2021-07-05 17:11:55,131 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53854
+2021-07-05 17:11:55,131 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:53854
+2021-07-05 17:11:59,244 Shutting connection '/127.0.0.1:53854'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 17:11:59,245 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:53854
+2021-07-05 17:51:59,204 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:59317
+2021-07-05 17:51:59,204 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:59317
+2021-07-05 17:52:00,510 Shutting connection '/127.0.0.1:59317'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 17:52:00,510 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:59317
+2021-07-05 17:52:17,225 Shutting connection '/127.0.0.1:53839'  down due to: java.io.EOFException: Peer disconnected
+2021-07-05 17:52:17,226 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:53839
+2021-07-05 19:09:17,193 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57741
+2021-07-05 19:09:17,195 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57741
+2021-07-05 19:09:17,242 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:57741
+2021-07-05 19:16:36,727 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:49479
+2021-07-05 19:16:36,730 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:49479
+2021-07-05 19:16:36,785 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:49479
+2021-07-05 19:16:59,416 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:56920
+2021-07-05 19:16:59,419 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:56920
+2021-07-05 19:16:59,475 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:56920
+2021-07-05 19:18:12,038 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:54306
+2021-07-05 19:18:12,041 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:54306
+2021-07-05 19:18:12,100 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:54306
+2021-07-05 19:19:30,165 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:61326
+2021-07-05 19:19:30,167 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:61326
+2021-07-05 19:19:30,228 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:61326
+2021-07-05 19:20:08,597 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50575
+2021-07-05 19:20:08,600 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50575
+2021-07-05 19:20:08,651 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:50575
+2021-07-05 19:22:06,188 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:63663
+2021-07-05 19:22:06,195 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:63663
+2021-07-05 19:22:16,884 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:49594
+2021-07-05 19:22:16,885 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:49594
+2021-07-05 19:28:03,031 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:63663
+2021-07-05 19:28:03,032 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:49594
+2021-07-08 15:25:22,196 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52500
+2021-07-08 15:25:22,196 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52501
+2021-07-08 15:25:22,207 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52500
+2021-07-08 15:25:22,207 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52501
+2021-07-08 15:25:41,905 Shutting connection '/127.0.0.1:52500'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 15:25:41,909 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:52500
+2021-07-08 15:25:41,910 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:52501
+2021-07-08 15:25:52,494 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52503
+2021-07-08 15:25:52,494 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52503
+2021-07-08 15:25:52,540 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52504
+2021-07-08 15:25:52,541 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52504
+2021-07-08 15:25:52,542 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:52503
+2021-07-08 15:26:25,039 Shutting connection '/127.0.0.1:52504'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 15:26:25,039 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:52504
+2021-07-08 15:26:39,425 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52505
+2021-07-08 15:26:39,425 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52505
+2021-07-08 15:26:39,441 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52506
+2021-07-08 15:26:39,441 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:52506
+2021-07-08 15:26:39,443 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:52505
+2021-07-08 15:28:05,586 Shutting connection '/127.0.0.1:52506'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 15:28:05,587 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:52506
+2021-07-08 15:31:38,077 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:61343
+2021-07-08 15:31:38,078 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:61343
+2021-07-08 15:31:40,016 Shutting connection '/127.0.0.1:61343'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 15:31:40,017 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:61343
+2021-07-08 16:20:01,114 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:59590
+2021-07-08 16:20:01,114 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:59590
+2021-07-08 16:20:08,501 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:59590
+2021-07-08 19:53:22,550 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:54864
+2021-07-08 19:53:22,570 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:54864
+2021-07-08 19:53:50,398 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50133
+2021-07-08 19:53:50,398 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50133
+2021-07-08 19:53:50,414 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50134
+2021-07-08 19:53:50,415 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50134
+2021-07-08 19:53:50,419 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:50133
+2021-07-08 19:55:52,214 Shutting connection '/127.0.0.1:50134'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 19:55:52,215 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:50134
+2021-07-08 19:56:54,599 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64220
+2021-07-08 19:56:54,599 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64220
+2021-07-08 19:57:39,908 Shutting connection '/127.0.0.1:64220'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 19:57:39,909 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64220
+2021-07-08 19:57:48,066 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64227
+2021-07-08 19:57:48,066 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64227
+2021-07-08 19:57:48,079 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64228
+2021-07-08 19:57:48,079 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:64228
+2021-07-08 19:57:48,081 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64227
+2021-07-08 19:57:54,788 Shutting connection '/127.0.0.1:64228'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 19:57:54,789 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:64228
+2021-07-08 19:58:16,194 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57911
+2021-07-08 19:58:16,195 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57911
+2021-07-08 19:58:16,207 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57912
+2021-07-08 19:58:16,207 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:57912
+2021-07-08 19:58:16,209 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:57911
+2021-07-08 20:04:02,916 Shutting connection '/127.0.0.1:57912'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 20:04:02,917 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:57912
+2021-07-08 20:05:02,694 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:65372
+2021-07-08 20:05:02,694 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:65372
+2021-07-08 20:05:05,389 Shutting connection '/127.0.0.1:65372'  down due to: java.io.EOFException: Peer disconnected
+2021-07-08 20:05:05,390 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:65372
+2021-07-08 20:05:50,492 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:54864
+2021-07-09 21:12:40,871 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:49359
+2021-07-09 21:12:40,893 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:49359
+2021-07-09 21:13:51,550 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50413
+2021-07-09 21:13:51,550 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50413
+2021-07-09 21:13:51,564 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50414
+2021-07-09 21:13:51,564 connected: local:/127.0.0.1:61613, remote:/127.0.0.1:50414
+2021-07-09 21:13:51,572 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:50413
+2021-07-09 21:16:07,222 Shutting connection '/127.0.0.1:50414'  down due to: java.io.EOFException: Peer disconnected
+2021-07-09 21:16:07,223 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:50414
+2021-07-09 22:29:50,841 Shutting connection '/127.0.0.1:49359'  down due to: java.io.EOFException: Peer disconnected
+2021-07-09 22:29:50,842 disconnected: local:/127.0.0.1:61613, remote:/127.0.0.1:49359

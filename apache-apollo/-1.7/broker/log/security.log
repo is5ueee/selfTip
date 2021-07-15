@@ -1,0 +1,13 @@
+2021-07-03 15:43:33,377 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:61206, reason:Failed login: User id not provided 
+2021-07-03 15:43:33,431 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:61206, reason:Failed login: User id not provided 
+2021-07-03 15:44:40,985 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:61206, reason:Failed login: Invalid user id or password for user: ENC(Cf3Jf3tM+UrSOoaKU50od5CuBa8rxjoL) 
+2021-07-03 15:44:53,081 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:61206, reason:Failed login: Invalid user id or password for user: Cf3Jf3tM+UrSOoaKU50od5CuBa8rxjoL 
+2021-07-03 15:46:11,946 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:61206, reason:Failed login: Invalid user id or password for user: admin 
+2021-07-05 16:44:18,044 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:65383, reason:Failed login: User id not provided 
+2021-07-05 16:44:18,130 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:53200, reason:Failed login: User id not provided 
+2021-07-08 19:51:42,703 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:60138, reason:Failed login: User id not provided 
+2021-07-08 19:51:42,739 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:60138, reason:Failed login: User id not provided 
+2021-07-09 10:44:07,503 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:54758, reason:Failed login: User id not provided 
+2021-07-09 10:44:07,535 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:54758, reason:Failed login: User id not provided 
+2021-07-09 21:15:16,570 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:53436, reason:Failed login: User id not provided 
+2021-07-09 21:15:16,636 authentication failed: local:/127.0.0.1:61680, remote:/127.0.0.1:64232, reason:Failed login: User id not provided 
